@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5288c529-94b1-4234-b737-8f31cdd62801" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Assignment_1$Interface.coverage" NAME="Interface Coverage Results" MODIFIED="1505266275931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment_1$Nosetests_in_AssignmentTester_py.coverage" NAME="Nosetests in AssignmentTester.py Coverage Results" MODIFIED="1505099671986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tester" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="Interface.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interface.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8355">
+              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="36" />
+              <folding>
+                <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+                <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+                <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+                <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+                <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+                <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+                <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+                <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+                <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+                <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+                <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+                <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+                <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+                <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+                <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+                <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+                <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+                <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+                <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+                <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+                <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+                <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_data.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_data.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ratings.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ratings.dat">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="615">
+              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssignmentTester.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1886">
+              <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+              <folding>
+                <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+                <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+                <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+                <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+                <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+                <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deletepartitionsandexit</find>
+      <find>testdelete</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tester/AssignmentTester.py" />
+        <option value="$PROJECT_DIR$/Interface.py" />
+        <option value="$PROJECT_DIR$/AssignmentTester.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3856" />
+    <option name="height" value="2092" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tejak\Downloads\Academics\3 Distributed Database Systems\Assignments\Assignment 1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Interface">
+    <configuration name="Interface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Assignment 1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Nosetests in AssignmentTester.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tester" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Assignment 1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tester/AssignmentTester.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in AssignmentTester.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Interface" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.Interface" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in AssignmentTester.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5288c529-94b1-4234-b737-8f31cdd62801" name="Default" comment="" />
+      <created>1505090094072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505090094072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_AssignmentTester_py - 2017.09.10 at 20h 14m 32s.xml">
+      <configuration name="Nosetests in AssignmentTester.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29144385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21705426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977852" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1968">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="328">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1763">
+          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tester/AssignmentTester.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/97ebf6bd-7f1a-485b-a480-42d0ea27acd7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/movies.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="615">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding>
+            <marker date="1505346427312" expanded="true" signature="1072:1136" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427312" expanded="true" signature="3186:3298" ph="SELECT COUNT... tables" />
+            <marker date="1505346427312" expanded="true" signature="3770:3784" ph="SELECT * FRO... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="3847:3878" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="5909:5974" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427312" expanded="true" signature="7240:7261" ph="SELECT COUNT... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8355">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <marker date="1505346427281" expanded="true" signature="473:678" ph="CREATE TABLE... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="867:879" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="867:881" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="867:1015" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2188:2223" ph="ALTER TABLE " />
+            <marker date="1505346427281" expanded="true" signature="2555:2584" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="2621:2650" ph="ALTER TABLE missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3060:3120" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3198:3333" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="3449:3470" ph="SELECT COUNT... missing_value" />
+            <marker date="1505346427281" expanded="true" signature="3449:3472" ph="SELECT COUNT... " />
+            <marker date="1505346427281" expanded="true" signature="3612:3672" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="3964:4024" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4103:4203" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4103:4237" ph="SELECT COUNT... tables" />
+            <marker date="1505346427281" expanded="true" signature="4714:4771" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="4714:4773" ph="INSERT INTO " />
+            <marker date="1505346427281" expanded="true" signature="4714:4774" ph="INSERT INTO missing_value... " />
+            <marker date="1505346427281" expanded="true" signature="5330:5394" ph="SELECT COUNT... pg_database" />
+            <marker date="1505346427281" expanded="true" signature="6165:6267" ph="SELECT * FRO... tables" />
+            <marker date="1505346427281" expanded="true" signature="6341:6352" ph="DROP TABLE m... " />
+            <marker date="1505346427281" expanded="true" signature="6341:6354" ph="DROP TABLE %... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
